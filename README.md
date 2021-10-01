@@ -1,0 +1,1 @@
+# A chrome extension which generates random useful messages / reminders when clicked.
